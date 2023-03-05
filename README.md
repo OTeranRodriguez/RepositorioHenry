@@ -1,1 +1,1 @@
-# RepositorioHenry
+Primera actualización del repositorio: Creación de carpeta "CarpetaHenry" y archivo "primerArchivo.txt"
